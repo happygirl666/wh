@@ -1,0 +1,6 @@
+##thymeleaf“≥√Êƒ£∞Â≈‰÷√
+spring:
+?mvc:
+??view:
+???prefix: /
+???suffix: .html
